@@ -1,0 +1,497 @@
+{
+  "Format": "json",
+  "Items": {
+    "de-DE": {
+      "Dr. Catharine Welch": {
+        "Description": "Voluptatem et odit quidem vel aliquid.",
+        "Value": "Non itaque mollitia dolorem non beatae."
+      },
+      "Dr. Fiona Kovacek": {
+        "Description": "Aut tempore quis soluta harum rerum.",
+        "Value": "Earum aliquam voluptatem magnam molestiae ut."
+      },
+      "Dr. Karine Gibson": {
+        "Description": "Quidem veritatis ad qui omnis quo.",
+        "Value": "Qui eligendi voluptas atque cum harum."
+      },
+      "Lady Chanel Schowalter": {
+        "Description": "Fugiat et qui rerum molestias sint.",
+        "Value": "Harum laborum et at praesentium officia."
+      },
+      "Miss Elisa Romaguera": {
+        "Description": "Nulla quo at voluptatem blanditiis non.",
+        "Value": "Dignissimos neque quam omnis soluta suscipit."
+      },
+      "Miss Elmira Donnelly": {
+        "Description": "Consequatur quam aspernatur omnis excepturi nihil.",
+        "Value": "Labore voluptates aut vero quis rerum."
+      },
+      "Mrs. Gabriella Boyle": {
+        "Description": "Et aut facilis repellendus quasi et.",
+        "Value": "Sit eius non error ut itaque."
+      },
+      "Mrs. Verlie Legros": {
+        "Description": "Inventore odio enim sed nobis iure.",
+        "Value": "Nemo soluta porro corrupti in distinctio."
+      },
+      "Ms. Alivia Fisher": {
+        "Description": "Odit saepe aliquid enim molestiae explicabo.",
+        "Value": "Assumenda debitis voluptatem eaque vel asperiores."
+      },
+      "Ms. Emie Larson": {
+        "Description": "Pariatur cumque dolorem et minus dignissimos.",
+        "Value": "Tempore ut qui quia eum sit."
+      },
+      "Princess Aubree Heaney": {
+        "Description": "Voluptatem sunt nisi beatae laborum molestias.",
+        "Value": "Vel sit qui dolorem quo qui."
+      },
+      "Prof. Alessia Reinger": {
+        "Description": "Placeat quia itaque tempora quas iste.",
+        "Value": "Non corporis et quaerat vero repellendus."
+      },
+      "Prof. Freeda Nikolaus": {
+        "Description": "Voluptatem et quia veritatis nostrum sequi.",
+        "Value": "Sit dolores aut placeat qui assumenda."
+      },
+      "Queen Ashleigh Mayert": {
+        "Description": "Fugit qui inventore omnis quod esse.",
+        "Value": "Sint soluta cum eius impedit voluptates."
+      },
+      "Queen Jude Mante": {
+        "Description": "Repellat quia voluptatum laboriosam est est.",
+        "Value": "Voluptatem occaecati voluptatem minima et corporis."
+      },
+      "Queen Keara Tromp": {
+        "Description": "Necessitatibus voluptas voluptas aspernatur nemo dolorem.",
+        "Value": "Occaecati enim deserunt nobis dicta aut."
+      },
+      "Queen Malvina Nienow": {
+        "Description": "Quibusdam deserunt consequuntur quam doloremque dolorem.",
+        "Value": "Error laudantium et voluptatem neque in."
+      },
+      "Queen Myrtie Schmidt": {
+        "Description": "Consequatur earum non ipsa est facere.",
+        "Value": "Incidunt voluptas distinctio ut eos consequatur."
+      },
+      "Queen Prudence Tromp": {
+        "Description": "Aliquam in illo quos in hic.",
+        "Value": "Officia labore eos ducimus voluptatem quibusdam."
+      },
+      "Queen Rozella Schultz": {
+        "Description": "Quia qui aut maiores qui nihil.",
+        "Value": "Qui consequatur nulla aut magnam earum."
+      }
+    },
+    "en-US": {
+      "Dr. Catharine Welch": {
+        "Description": "Libero fugit quos eum minus et.",
+        "Value": "Vel reiciendis animi nisi aliquam quidem."
+      },
+      "Dr. Fiona Kovacek": {
+        "Description": "Est quae accusantium autem error natus.",
+        "Value": "Sed dolor cumque quae quia qui."
+      },
+      "Dr. Karine Gibson": {
+        "Description": "Et recusandae quo corrupti ut aperiam.",
+        "Value": "Blanditiis molestiae optio in sapiente aut."
+      },
+      "Lady Chanel Schowalter": {
+        "Description": "Quidem laudantium nihil dolorum ex nostrum.",
+        "Value": "Dolores eos rerum tempora vel provident."
+      },
+      "Miss Elisa Romaguera": {
+        "Description": "Minima neque suscipit excepturi maiores exercitationem.",
+        "Value": "Quod aut odit corporis est sed."
+      },
+      "Miss Elmira Donnelly": {
+        "Description": "Voluptatum ipsa nisi placeat delectus aut.",
+        "Value": "Eveniet et quidem eaque minima ea."
+      },
+      "Mrs. Gabriella Boyle": {
+        "Description": "Commodi enim adipisci placeat beatae rerum.",
+        "Value": "Saepe id dolores ut esse voluptatum."
+      },
+      "Mrs. Verlie Legros": {
+        "Description": "Ipsa deserunt doloribus et voluptas aut.",
+        "Value": "Ipsum possimus aspernatur est dolores maxime."
+      },
+      "Ms. Alivia Fisher": {
+        "Description": "Fugiat eum consectetur et esse sed.",
+        "Value": "Aut odio laboriosam aperiam porro in."
+      },
+      "Ms. Emie Larson": {
+        "Description": "Reprehenderit nemo eos illo perspiciatis magnam.",
+        "Value": "Nobis nam alias doloremque sunt iure."
+      },
+      "Princess Aubree Heaney": {
+        "Description": "Quibusdam voluptatibus neque doloremque dolor sunt.",
+        "Value": "Dolores quia est illum nemo ab."
+      },
+      "Prof. Alessia Reinger": {
+        "Description": "Ea quia molestiae voluptas quo quas.",
+        "Value": "In magni nisi autem incidunt est."
+      },
+      "Prof. Freeda Nikolaus": {
+        "Description": "Voluptas dolores sint totam delectus sit.",
+        "Value": "Consequuntur eligendi eos iusto non qui."
+      },
+      "Queen Ashleigh Mayert": {
+        "Description": "Accusamus numquam aliquid quis ad ut.",
+        "Value": "Optio illum non eius odit et."
+      },
+      "Queen Jude Mante": {
+        "Description": "Rerum soluta sint non aut delectus.",
+        "Value": "Deleniti in est ut eos ipsum."
+      },
+      "Queen Keara Tromp": {
+        "Description": "Et aut ea rerum praesentium ipsa.",
+        "Value": "Eligendi dolorem voluptatem quis sit ipsa."
+      },
+      "Queen Malvina Nienow": {
+        "Description": "Voluptate aut ducimus sunt alias voluptatem.",
+        "Value": "Vel consequuntur voluptate alias temporibus animi."
+      },
+      "Queen Myrtie Schmidt": {
+        "Description": "Voluptatem est consequatur tempore eius est.",
+        "Value": "Cumque ipsa et quis illo sequi."
+      },
+      "Queen Prudence Tromp": {
+        "Description": "Consequatur et amet possimus eos omnis.",
+        "Value": "Eos a voluptates fugiat porro qui."
+      },
+      "Queen Rozella Schultz": {
+        "Description": "Veritatis voluptas sit id voluptatem at.",
+        "Value": "Quia autem et in vel eveniet."
+      }
+    },
+    "es-ES": {
+      "Dr. Catharine Welch": {
+        "Description": "Quis enim et est eum inventore.",
+        "Value": "Id voluptate est est officia maiores."
+      },
+      "Dr. Fiona Kovacek": {
+        "Description": "Beatae sit totam voluptatum dolorum officia.",
+        "Value": "Fugit aliquam dolores temporibus et impedit."
+      },
+      "Dr. Karine Gibson": {
+        "Description": "Sunt in dolores reprehenderit quia reiciendis.",
+        "Value": "Eum consequuntur eos quod quo dolores."
+      },
+      "Lady Chanel Schowalter": {
+        "Description": "Asperiores molestiae rerum veritatis eum vitae.",
+        "Value": "Eos exercitationem perferendis sed impedit dicta."
+      },
+      "Miss Elisa Romaguera": {
+        "Description": "Aliquam et iure illum quia nihil.",
+        "Value": "Non quos officia repellendus consequatur suscipit."
+      },
+      "Miss Elmira Donnelly": {
+        "Description": "Velit et vero fugiat sit ut.",
+        "Value": "Ea quas quia tenetur repellendus sequi."
+      },
+      "Mrs. Gabriella Boyle": {
+        "Description": "Sequi odit culpa iste accusantium sed.",
+        "Value": "Cupiditate reiciendis error ut minima itaque."
+      },
+      "Mrs. Verlie Legros": {
+        "Description": "Expedita eveniet quia maxime et omnis.",
+        "Value": "Maiores error accusamus veritatis harum vero."
+      },
+      "Ms. Alivia Fisher": {
+        "Description": "Tempora itaque nostrum iure sit veritatis.",
+        "Value": "Dignissimos numquam ab sit cupiditate amet."
+      },
+      "Ms. Emie Larson": {
+        "Description": "Sapiente vitae id laboriosam et voluptas.",
+        "Value": "Iusto aut tenetur illo quia aut."
+      },
+      "Princess Aubree Heaney": {
+        "Description": "Beatae et laudantium debitis itaque est.",
+        "Value": "Unde et similique omnis eum dignissimos."
+      },
+      "Prof. Alessia Reinger": {
+        "Description": "Est iusto tenetur qui aut beatae.",
+        "Value": "Eos fugit dolorum laborum eum ut."
+      },
+      "Prof. Freeda Nikolaus": {
+        "Description": "Pariatur id ipsa quia quo officia.",
+        "Value": "Enim est non esse deleniti minima."
+      },
+      "Queen Ashleigh Mayert": {
+        "Description": "Tempora exercitationem sed quia voluptas rerum.",
+        "Value": "Laudantium omnis architecto debitis et aut."
+      },
+      "Queen Jude Mante": {
+        "Description": "Quasi labore nulla perferendis perspiciatis id.",
+        "Value": "Mollitia et iusto omnis maxime libero."
+      },
+      "Queen Keara Tromp": {
+        "Description": "Harum illo dolorem quis odit ex.",
+        "Value": "Consequatur iusto illo ad natus ducimus."
+      },
+      "Queen Malvina Nienow": {
+        "Description": "Ut et quod beatae modi enim.",
+        "Value": "Aut consectetur quae aliquid voluptatibus voluptate."
+      },
+      "Queen Myrtie Schmidt": {
+        "Description": "Sed et accusamus aliquam deleniti facilis.",
+        "Value": "Labore aspernatur harum qui suscipit dolor."
+      },
+      "Queen Prudence Tromp": {
+        "Description": "Omnis quos optio iste praesentium nisi.",
+        "Value": "Magnam voluptates soluta commodi sit molestiae."
+      },
+      "Queen Rozella Schultz": {
+        "Description": "Autem aspernatur sit suscipit molestias sequi.",
+        "Value": "Qui eum natus deserunt fuga iste."
+      }
+    },
+    "fr-FR": {
+      "Dr. Catharine Welch": {
+        "Description": "Numquam suscipit ea aliquid nesciunt aliquam.",
+        "Value": "Sit occaecati repudiandae qui perferendis nostrum."
+      },
+      "Dr. Fiona Kovacek": {
+        "Description": "Eum soluta minus et ea assumenda.",
+        "Value": "Cupiditate ad aut ex voluptatem atque."
+      },
+      "Dr. Karine Gibson": {
+        "Description": "A et asperiores architecto ducimus sit.",
+        "Value": "Aut quis magni nobis quos sed."
+      },
+      "Lady Chanel Schowalter": {
+        "Description": "Vero ducimus dolor in cum reiciendis.",
+        "Value": "Molestias ipsam est nisi eius atque."
+      },
+      "Miss Elisa Romaguera": {
+        "Description": "Ut et omnis et ipsa quis.",
+        "Value": "Eum ad perspiciatis nemo omnis quos."
+      },
+      "Miss Elmira Donnelly": {
+        "Description": "Beatae ut fuga voluptatem qui molestias.",
+        "Value": "Earum odit quia neque voluptate atque."
+      },
+      "Mrs. Gabriella Boyle": {
+        "Description": "Molestias repudiandae praesentium nobis nam molestiae.",
+        "Value": "Quam nisi voluptatem vero dignissimos minus."
+      },
+      "Mrs. Verlie Legros": {
+        "Description": "Et est itaque amet alias similique.",
+        "Value": "Hic similique fuga accusantium aut animi."
+      },
+      "Ms. Alivia Fisher": {
+        "Description": "Amet porro vitae sequi assumenda quisquam.",
+        "Value": "Quo ut eligendi soluta error delectus."
+      },
+      "Ms. Emie Larson": {
+        "Description": "Possimus sint at voluptas placeat laboriosam.",
+        "Value": "Facere eum earum nisi aut consequatur."
+      },
+      "Princess Aubree Heaney": {
+        "Description": "Quis ut fuga aut tempora deserunt.",
+        "Value": "Aut voluptate deserunt accusantium est eaque."
+      },
+      "Prof. Alessia Reinger": {
+        "Description": "Voluptates rerum repellendus rerum quae qui.",
+        "Value": "Ut rem suscipit enim velit aut."
+      },
+      "Prof. Freeda Nikolaus": {
+        "Description": "Qui eum ut rerum aut sit.",
+        "Value": "Voluptatibus commodi molestiae provident velit eveniet."
+      },
+      "Queen Ashleigh Mayert": {
+        "Description": "Maiores numquam nesciunt blanditiis similique ratione.",
+        "Value": "Accusantium corporis at tempore quidem aut."
+      },
+      "Queen Jude Mante": {
+        "Description": "Culpa ad sequi officiis nisi occaecati.",
+        "Value": "Omnis voluptatem recusandae soluta voluptatibus ipsum."
+      },
+      "Queen Keara Tromp": {
+        "Description": "Maiores vitae earum laborum mollitia perspiciatis.",
+        "Value": "Aut non distinctio quia velit odit."
+      },
+      "Queen Malvina Nienow": {
+        "Description": "Debitis esse deleniti amet quasi nesciunt.",
+        "Value": "Nobis repellat in est et possimus."
+      },
+      "Queen Myrtie Schmidt": {
+        "Description": "Enim asperiores voluptatem quia dicta est.",
+        "Value": "Et reiciendis laudantium a tempora debitis."
+      },
+      "Queen Prudence Tromp": {
+        "Description": "Nisi error iusto modi atque consequatur.",
+        "Value": "Odit quos sunt voluptatem voluptas labore."
+      },
+      "Queen Rozella Schultz": {
+        "Description": "Et iste sed ea est enim.",
+        "Value": "Maxime possimus excepturi eum qui rem."
+      }
+    },
+    "it-IT": {
+      "Dr. Catharine Welch": {
+        "Description": "Quaerat vel sapiente commodi doloribus voluptas.",
+        "Value": "Deserunt quo earum veritatis quasi sint."
+      },
+      "Dr. Fiona Kovacek": {
+        "Description": "Consequatur eum provident sint dolore et.",
+        "Value": "Qui qui quisquam iure voluptatibus placeat."
+      },
+      "Dr. Karine Gibson": {
+        "Description": "Vero facere rerum impedit omnis sint.",
+        "Value": "Odit est vitae ullam ea explicabo."
+      },
+      "Lady Chanel Schowalter": {
+        "Description": "Error possimus unde maxime non nisi.",
+        "Value": "Provident incidunt vel laborum qui voluptates."
+      },
+      "Miss Elisa Romaguera": {
+        "Description": "Nam nobis libero dicta impedit amet.",
+        "Value": "Optio qui maiores assumenda id eveniet."
+      },
+      "Miss Elmira Donnelly": {
+        "Description": "Dolor sit optio et qui atque.",
+        "Value": "Sapiente dolores commodi reiciendis ab eum."
+      },
+      "Mrs. Gabriella Boyle": {
+        "Description": "Enim sit dolores possimus aut ab.",
+        "Value": "Voluptatum deserunt rerum laboriosam deleniti est."
+      },
+      "Mrs. Verlie Legros": {
+        "Description": "Fuga delectus libero eum veniam perspiciatis.",
+        "Value": "Expedita et fuga voluptates repudiandae officia."
+      },
+      "Ms. Alivia Fisher": {
+        "Description": "Doloribus vitae architecto provident illum voluptas.",
+        "Value": "Possimus est enim non quam ullam."
+      },
+      "Ms. Emie Larson": {
+        "Description": "Dolorem fugiat rerum et dolores esse.",
+        "Value": "Et doloremque debitis eos et ut."
+      },
+      "Princess Aubree Heaney": {
+        "Description": "Inventore quibusdam voluptas provident voluptatibus est.",
+        "Value": "Et culpa porro commodi similique ipsa."
+      },
+      "Prof. Alessia Reinger": {
+        "Description": "Voluptatibus rerum rem quo et tenetur.",
+        "Value": "Quibusdam eaque provident et qui maxime."
+      },
+      "Prof. Freeda Nikolaus": {
+        "Description": "Reiciendis sit ipsam eos possimus et.",
+        "Value": "Repellat voluptates cum ratione nihil quibusdam."
+      },
+      "Queen Ashleigh Mayert": {
+        "Description": "Soluta eaque repellat et dolor perspiciatis.",
+        "Value": "Qui ipsa et sint fugit ea."
+      },
+      "Queen Jude Mante": {
+        "Description": "Voluptatum reiciendis enim iure alias et.",
+        "Value": "Odio ipsum tenetur natus omnis voluptates."
+      },
+      "Queen Keara Tromp": {
+        "Description": "Eum doloribus iure et hic labore.",
+        "Value": "Natus ut neque fugiat beatae accusantium."
+      },
+      "Queen Malvina Nienow": {
+        "Description": "Eos accusantium aut excepturi nesciunt dignissimos.",
+        "Value": "Incidunt aut sit quisquam est aliquid."
+      },
+      "Queen Myrtie Schmidt": {
+        "Description": "Amet ut esse ullam et corrupti.",
+        "Value": "Nostrum aliquid dolorem dignissimos fuga non."
+      },
+      "Queen Prudence Tromp": {
+        "Description": "Maxime modi asperiores in facilis consequuntur.",
+        "Value": "Qui mollitia adipisci eum non rerum."
+      },
+      "Queen Rozella Schultz": {
+        "Description": "Aut atque et eum eaque odit.",
+        "Value": "Dolore in ducimus nihil ut vitae."
+      }
+    },
+    "nl-NL": {
+      "Dr. Catharine Welch": {
+        "Description": "Veritatis inventore fugiat similique veniam est.",
+        "Value": "Ullam saepe ut reprehenderit corrupti quia."
+      },
+      "Dr. Fiona Kovacek": {
+        "Description": "Rem aliquid sit praesentium voluptatibus ipsa.",
+        "Value": "Quas inventore velit dolores aut ea."
+      },
+      "Dr. Karine Gibson": {
+        "Description": "Doloribus ad tenetur cumque ducimus sit.",
+        "Value": "Adipisci quia eum et quos quaerat."
+      },
+      "Lady Chanel Schowalter": {
+        "Description": "Provident totam nostrum ut qui nobis.",
+        "Value": "Cupiditate quia eaque consequuntur consequatur error."
+      },
+      "Miss Elisa Romaguera": {
+        "Description": "Alias sit nesciunt sequi est nobis.",
+        "Value": "Esse magnam voluptatibus deleniti quod optio."
+      },
+      "Miss Elmira Donnelly": {
+        "Description": "Sed ab sunt maxime iste est.",
+        "Value": "Ipsa necessitatibus odit ea soluta quasi."
+      },
+      "Mrs. Gabriella Boyle": {
+        "Description": "Aspernatur voluptatem mollitia asperiores nisi odio.",
+        "Value": "Saepe rerum ea laudantium ea molestiae."
+      },
+      "Mrs. Verlie Legros": {
+        "Description": "Earum aliquid libero iusto ut asperiores.",
+        "Value": "Id ut facere dolorum fuga et."
+      },
+      "Ms. Alivia Fisher": {
+        "Description": "Quasi beatae possimus doloremque ab sint.",
+        "Value": "Esse officia officiis consequatur aut dolore."
+      },
+      "Ms. Emie Larson": {
+        "Description": "Quae recusandae voluptatem impedit praesentium repellat.",
+        "Value": "Porro non eius exercitationem dignissimos voluptatum."
+      },
+      "Princess Aubree Heaney": {
+        "Description": "Repellendus nemo non adipisci totam placeat.",
+        "Value": "Non libero modi deleniti facere atque."
+      },
+      "Prof. Alessia Reinger": {
+        "Description": "Id quis qui qui optio ut.",
+        "Value": "Veniam aliquid assumenda accusantium eveniet saepe."
+      },
+      "Prof. Freeda Nikolaus": {
+        "Description": "Dolorem facere optio amet aut totam.",
+        "Value": "Aut dolorum dignissimos nisi quam sit."
+      },
+      "Queen Ashleigh Mayert": {
+        "Description": "Voluptatem totam omnis saepe voluptatibus vitae.",
+        "Value": "Saepe consequatur consequatur quia sed esse."
+      },
+      "Queen Jude Mante": {
+        "Description": "Officiis voluptatem voluptatem maiores quidem eveniet.",
+        "Value": "Veniam quis nesciunt nihil rerum sed."
+      },
+      "Queen Keara Tromp": {
+        "Description": "Quia error laudantium ut nulla sed.",
+        "Value": "Et facilis qui error est optio."
+      },
+      "Queen Malvina Nienow": {
+        "Description": "Sunt alias quo nisi ut ut.",
+        "Value": "Voluptas rerum et optio nisi totam."
+      },
+      "Queen Myrtie Schmidt": {
+        "Description": "Blanditiis debitis modi reprehenderit quaerat dolore.",
+        "Value": "Voluptatum dolore nam est minima ullam."
+      },
+      "Queen Prudence Tromp": {
+        "Description": "Quod est deserunt quaerat fuga aut.",
+        "Value": "Repudiandae nisi quis omnis illo rerum."
+      },
+      "Queen Rozella Schultz": {
+        "Description": "Voluptates iure sunt vitae voluptatem esse.",
+        "Value": "Voluptas qui nisi aut et dolore."
+      }
+    }
+  }
+}

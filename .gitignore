@@ -1,0 +1,6 @@
+.idea/
+vendor/
+
+loco
+test.db
+gorm.db
